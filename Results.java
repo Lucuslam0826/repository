@@ -38,11 +38,8 @@ public class Student {
      System.out.println("Hello");
      return;
 }
-<<<<<<< HEAD
     void testing()
  {
      //blank + modify
 }
-=======
->>>>>>> parent of 3d89b87 (Update Results.java)
 }
